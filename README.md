@@ -42,11 +42,10 @@ npm install
 
 Run the app
 
-npm start
+npm run dev
 
 
-Then open http://localhost:3000
- in your browser.
+Then open http://localhost:xxxx in your browser.
 
 🖼️ Screenshots
 <img width="826" height="913" alt="Chatbot" src="https://github.com/user-attachments/assets/2d0fbe33-2c53-43c4-87f9-61a8c0025827" />
